@@ -1,3 +1,6 @@
+# PagerCentreon
+[![License](https://img.shields.io/pypi/l/supervisor-alert.svg)](https://github.com/Drbmk/supervisor-pushbullet/blob/master/LICENSE)
+
 ## Usage:
 
 PagerCentreon is intended to be run on set intervals to check the PagerDuty API
