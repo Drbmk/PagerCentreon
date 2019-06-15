@@ -5,7 +5,7 @@
 
 PagerCentreon is intended to be run on set intervals to check the PagerDuty API
 for active incidents that have been acknowledged in PagerDuty but not in Centreon -
-PagerCentreon handles the host / service acknowledgement back to Nagios.
+PagerCentreon handles the host / service acknowledgement back to Centreon.
 
 Relies on Centreon cmd to interact with Centreon
 
